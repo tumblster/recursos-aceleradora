@@ -1,0 +1,2 @@
+Deja aquí tus stickers (PNG, JPG o WebP). Salen como un cuadrado pequeño con esquinas redondeadas, así que pueden tener fondo.
+Claude los mira, los apunta en catalogo.md y elige cuáles poner según lo que dices. Puedes cambiar las descripciones de catalogo.md para orientarlo.

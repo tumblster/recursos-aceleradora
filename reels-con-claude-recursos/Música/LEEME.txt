@@ -1,0 +1,1 @@
+Opcional. Si dejas aquí tu música, Claude puede usarla. Si no, la genera con SynthFlow.
